@@ -8,5 +8,10 @@
     ],
     "require": {
         "fzaninotto/faker": "^1.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Com\\Iesebres\\Dam2\\spineda\\helloworldcomposer\\": "src/"
+        }
     }
 }

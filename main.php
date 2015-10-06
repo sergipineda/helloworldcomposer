@@ -1,15 +1,15 @@
 <?php
 
-require __DIR__ . "/Hello.php";
+namespace Com\Iesebres\Dam2\spineda\helloworldcomposer;
 
 
 
-/**
- * Created by PhpStorm.
- * User: sergi
- * Date: 6/10/15
- * Time: 19:33
- */
+require __DIR__ . "/src/Hello.php";
+
+
+
+
+
 
 $greetings = new Hello();
 
