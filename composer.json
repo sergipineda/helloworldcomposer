@@ -1,0 +1,10 @@
+{
+    "name": "spineda/hello-world-composer",
+    "authors": [
+        {
+            "name": "Sergi",
+            "email": "spineda1994@gmail.com"
+        }
+    ],
+    "require": {}
+}
